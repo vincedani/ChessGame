@@ -6,11 +6,17 @@
 git clone https://github.com/vincedani/ChessGame
 ```
 
-Start IntelliJ Idea an open the ChessGame as a project.
+Start IntelliJ Idea and open the ChessGame as a project.
 
 The main class is in the `vad` package: `vad.Main`.
 
 Build (CTRL + F9) and Run (Shift + F10).
+
+## Testing the project
+
+When you can run the game properly, you can run the tests.
+Open the Project view in the Idea, and navigate to the `src/tests` folder.
+Right click on it and select the `Run 'Tests in tests'` option.
 
 ## The GUI
 
