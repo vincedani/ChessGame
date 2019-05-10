@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -41,3 +42,5 @@ Icon
 
 bin/*
 bin
+
+workspace.xml
